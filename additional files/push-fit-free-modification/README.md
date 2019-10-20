@@ -18,4 +18,3 @@ Therefore the clamp has to be scaled in Z-direction before printing, depending o
 The Bowden hose must then be calibrated in the clamp with a drill or a 2mm reamer so that the filament can slide through without friction.
 Make sure that no Teflon chips remain in the channel. They do not melt and can later block the nozzle, especially the 0.3 mm nozzle.
 
-Translated with www.DeepL.com/Translator
